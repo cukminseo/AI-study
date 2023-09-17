@@ -113,7 +113,7 @@
 
 - (그당시) 기존 CNN은 Pooling을 진행할때 pooling unit들이 겹치지 않도록 연산되었다.
 	 - kernel size = $z$ X $z$, stride=$s$라고 할때, s=z로 설정
-- 새로운 CNN(AlexNet)은 unit간 stride를 kernel size보다 줄여 겹치며 연산하도록 overlapping 시켰다.($s<z$)
+- 새로운 CNN(AlexNet)은 unit간 stride를 kernel size보다 줄여 겹치며 연산하도록 overlapping 시켰다.(s<z)
 	- 이 논문에서는 stride=2, kernel size=3X3로 overapping시켰다.
 	- stride=2, kernel size=2X2와 비교했을때 Top-1 에러율을 0.4%, Top-5 에러율을 0.3% 감소시켰다고 한다.
 
