@@ -1,0 +1,11 @@
+
+- 머신러닝-Introduction to machine learning with python
+	- [eng pdf](https://drive.google.com/file/d/1mm95uBX5r0o07FKODav9haXxifDBiYvn/view?usp=sharing)
+	- 번역본은 교내 도서관에 비치
+- 딥러닝
+	- [dive in to deep learning pdf](https://drive.google.com/file/d/1Lq48jQXHBALBhOrZthExPc-IOQ_SORVI/view?usp=sharing)
+	- [dive in to deep learning webview](https://d2l.ai/)
+	- [deep learing pdf](https://drive.google.com/file/d/1nnzlM6ggPl0q6FCTybaLWNhfA9indGA3/view?usp=sharing)
+	- [딥러닝 nlp wikidocs](https://wikidocs.net/book/2155)
+- 파이토치
+	- [파이토치 딥러닝 입문 wikidocs](https://wikidocs.net/book/2788)
