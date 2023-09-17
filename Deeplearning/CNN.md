@@ -4,7 +4,7 @@
 
 - 네트워크가 깊어지면(layer가 많아지면) 성능 향상의 가능성이 생긴다.
 
-  - 중첩된 convolution 연산으로 인해 상위 레이어 각 뉴런 입력의 receptive field는 점점 커지게 되고, 따라서 중요한 맥락정보(Contextual Information)를 학습할 수 있고, 복잡한 패턴과 같은 고수준 특징을 얻을 수 있기 때문이다.
+	- 중첩된 convolution 연산으로 인해 상위 레이어 각 뉴런 입력의 receptive field는 점점 커지게 되고, 따라서 중요한 맥락정보(Contextual Information)를 학습할 수 있고, 복잡한 패턴과 같은 고수준 특징을 얻을 수 있기 때문이다.
 
 - 가능성이 생긴다는 것은, 일반적으로 layer를 많이 쌓아나가는 것은 학습 데이터를 과하게 학습하는 overfitting의 원인이 되기 때문이다.
 
