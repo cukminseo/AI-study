@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de6099a03e11409e",
+        "id": "222bd1604ae0f0e5",
         "type": "tabs",
         "children": [
           {
-            "id": "a5535ba1e3897b9c",
+            "id": "4d963af2377bf67f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,25 +138,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5535ba1e3897b9c",
+  "active": "4d963af2377bf67f",
   "lastOpenFiles": [
-    "Deeplearning/CNN/ResNet.md",
+    "Deeplearning/CNN/출력텐서 크기 공식.md",
+    "Deeplearning/Weight decay(L2 regularization).md",
+    "Pasted image 20230918185051.png",
+    "README.md",
+    "Reference book.md",
     "Deeplearning/CNN/GoogLeNet(InceptionNet).md",
+    "Deeplearning/CNN/ResNet.md",
     "Deeplearning/CNN/VGG.md",
-    "Deeplearning/CNN/CNN.md",
     "glossary.md",
+    "Deeplearning/CNN/CNN.md",
     "Deeplearning/CNN/EfficientNet.md",
     "Deeplearning/CNN/DenseNet.md",
     "Deeplearning/CNN/AlexNet.md",
-    "Pasted image 20230918185051.png",
-    "Deeplearning/Weight decay(L2 regularization).md",
     "L2 regularization.md",
     "Deeplearning/CNN",
     "Pasted image 20230918132658.png.md",
     "Pasted image 20230918132658.png",
-    "README.md",
     "Untitled.canvas",
-    "Reference book.md",
     "Deeplearning"
   ]
 }
