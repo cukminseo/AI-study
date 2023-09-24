@@ -18,7 +18,7 @@
 - [[VGG]]
 	- [VGG paper](https://arxiv.org/abs/1409.1556)-2014
 
-- [[InceptionNet]]
+- [[GoogLeNet(InceptionNet)]]
 	- [InceptionNet paper](https://arxiv.org/abs/1409.4842)-2014
 
 - [[ResNet]]

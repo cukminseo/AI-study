@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "41e33c13c805ae91",
+        "id": "de6099a03e11409e",
         "type": "tabs",
         "children": [
           {
-            "id": "0a72d81cf8780465",
+            "id": "a5535ba1e3897b9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deeplearning/CNN/AlexNet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deeplearning/CNN/AlexNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deeplearning/CNN/AlexNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Deeplearning/CNN/AlexNet.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,22 +138,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a72d81cf8780465",
+  "active": "a5535ba1e3897b9c",
   "lastOpenFiles": [
+    "Deeplearning/CNN/ResNet.md",
+    "Deeplearning/CNN/GoogLeNet(InceptionNet).md",
     "Deeplearning/CNN/VGG.md",
+    "Deeplearning/CNN/CNN.md",
+    "glossary.md",
+    "Deeplearning/CNN/EfficientNet.md",
+    "Deeplearning/CNN/DenseNet.md",
+    "Deeplearning/CNN/AlexNet.md",
     "Pasted image 20230918185051.png",
     "Deeplearning/Weight decay(L2 regularization).md",
-    "Deeplearning/CNN/CNN.md",
     "L2 regularization.md",
     "Deeplearning/CNN",
     "Pasted image 20230918132658.png.md",
     "Pasted image 20230918132658.png",
-    "Deeplearning/CNN/AlexNet.md",
-    "Deeplearning/CNN/DenseNet.md",
-    "Deeplearning/CNN/ResNet.md",
-    "Deeplearning/CNN/InceptionNet.md",
     "README.md",
-    "Deeplearning/CNN/EfficientNet.md",
     "Untitled.canvas",
     "Reference book.md",
     "Deeplearning"
